@@ -1,0 +1,23 @@
+{
+	"name": "phpf/common",
+	"type": "library",
+	"description": "Phpf Common package",
+	"keywords": ["Common", "Autoloader", "Container", "Alias"],
+	"homepage": "https://github.com/phpf/Common",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "The PHPf Developer",
+			"email": "wellspeterson@live.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3"
+	},
+	"autoload": {
+		"psr-4": {
+			"Phpf\\Common\\": "src/"
+		}
+	},
+	"minimum-stability": "dev"
+}
