@@ -5,7 +5,7 @@ Common class library, including a flexible autoloader and various containers.
 
 **Namespace: `Phpf\Common`**
 
-**Dependencies: _None_ **
+**Dependencies: None**
 
 ###Classes
 Containers
